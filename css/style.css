@@ -1,0 +1,28 @@
+img {
+    width:300px;
+    height:auto;
+  }
+  
+  .diving{
+      width: 300px;
+      height: 166px;
+      text-align: ;
+      overflow: hidden;
+  }
+.diving ul{
+color: black;
+background-color: aquamarine;
+width: 261px;
+height: 166px;
+display:block;
+transition: 2s;
+position: relative;
+opacity: 0.8;
+}
+
+.diving:hover ul{
+    margin-top: -170px;
+}
+li {
+    padding-top: 1em;
+}
